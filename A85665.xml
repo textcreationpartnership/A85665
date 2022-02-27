@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of divers elders and brethren of congregationall societies, in and about the city of London. Decrying and disclaiming two bookes; one called a cry; and the other book called A model of a new representative. Wherein their judgements touching the qualifications of electors, and eligible persons, are tendered to consideration, in way of vindication of themselves from unjust aspersions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85665</idno>
+            <idno type="STC">Wing G1850</idno>
+            <idno type="STC">Thomason E644_7</idno>
+            <idno type="STC">ESTC R206049</idno>
+            <idno type="EEBO-CITATION">99865241</idno>
+            <idno type="PROQUEST">99865241</idno>
+            <idno type="VID">165975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165975)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E644[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of divers elders and brethren of congregationall societies, in and about the city of London. Decrying and disclaiming two bookes; one called a cry; and the other book called A model of a new representative. Wherein their judgements touching the qualifications of electors, and eligible persons, are tendered to consideration, in way of vindication of themselves from unjust aspersions.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by M. Simmons for L. Chapman, at the Crown in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Nou. 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>A cry for a right improvement of all our mercies, and all those vvorks of wonder that God hath wrought among us: With some cautions touching the election of the (Expected) new representative.</term>
+               <term>A model of a new representative, now under consideration.</term>
+               <term>Congregationalism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:165975:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of divers Elders and Brethren of Congregationall Societies, in and about the City of <hi>LONDON.</hi>
+            </p>
+            <p>Decrying and Diſclaiming two Bookes; the one called <hi>A CRY;</hi> and the other Book called <hi>A MODEL OF A NEW REPRESENTATIVE.</hi>
+            </p>
+            <p>Wherein their Judgements touching the Qualifications of Electors, and Eligible Perſons, <hi>are tendred to Conſideration, in way of Vindica<g ref="char:EOLhyphen"/>tion of themſelves from unjuſt Aſperſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <p>
+               <seg rend="decorInit">I</seg>N the yeare 1647. Wee being Accuſed by many, as if we were <hi>Patrons</hi> of <hi>Liberty</hi> to ſin, and as if we denied <hi>Magiſtracy</hi> and <hi>Propriety</hi> in ones Eſtate; and as if we ow<g ref="char:EOLhyphen"/>ned <hi>Polygamy:</hi> We were enforced to Vin<g ref="char:EOLhyphen"/>dicate our ſelves in our <hi>Declaration</hi> then Agreed unto by our joynt Conſent,
+<note place="margin">Printed for <hi>H. Overton</hi> neare the <hi>Exchange.</hi>
+               </note> and Publiſhed then in our Names, concern<g ref="char:EOLhyphen"/>ing thoſe foure Particulars charged upon us. Wherein we not onely Aſſerted <hi>the Contrary:</hi> but have alſo <hi>Declared,</hi> from the Holy Scriptures, <hi>The Rule and Standard for Faith and Obedience,</hi> what <hi>Liberty,</hi> and what <hi>Community</hi> is owned, and Diſclaimed therein. Which accordingly we ſtill owne, or Diſclaime: and what Neceſſity there is of <hi>Magiſtracy,</hi> and what Obedience is due unto them in their places, as to an Ordinance of God. And howſoever <hi>Polygamy</hi> was practiſed in the Old Teſtament; that yet it is clearly Evinced in the New Teſtament, to be un<g ref="char:EOLhyphen"/>lawfull.</p>
+            <pb n="2" facs="tcp:165975:2"/>
+            <p>Our Stating the beforeſaid Caſes, and our Evidencing of what is the Truth therein, by clear Scriptures, and by Grounds deduced thence, we doe ſtill fully Adhere unto: Howſoever ſome or other of the Scandals beforeſaid, ſome formerly, and ſome of late, have ſlanderouſly laid to our charge.</p>
+            <p>And now whereas of late yeares, the wiſe Providence of our God hath ſo Ordered it, that ſuch readineſſe and chearfulneſſe of many Chriſtians, that are Tearmed <hi>Independents,</hi> in their Ad<g ref="char:EOLhyphen"/>hering to the Parliament, even from the beginning of the late warres unto this day: and ſuch faithfulneſſe and diligence hath been expreſſed by many of them, in the State; and in the Armie, as well under the <hi>Earle of Eſſex,</hi> and the <hi>Lord Fairfax,</hi> as under the Preſent Captaine Generall, the <hi>Lord Cromwell;</hi> that hereby many of them have been judged worthy of Offi<g ref="char:EOLhyphen"/>ces and Places of Truſt and Preferment, as well in <hi>England,</hi> as in <hi>Wales</hi> &amp; <hi>Ireland.</hi> And whereas this hath occaſioned (though cauſ<g ref="char:EOLhyphen"/>leſly,) the Envy of many againſt them: and many have falſly ſaid, That they ſeek to get all ſuch places into their own hands, and to exclude all others from them. (Which expreſ<g ref="char:EOLhyphen"/>ſions, though grievous to us, we did beare, as part of the Re<g ref="char:EOLhyphen"/>proaches for Chriſt, and his Truth.)</p>
+            <p>And whereas now of late, when ſome have Objected againſt us a Booke or two, lately Publiſhed, The one called, <hi>A Modell of a New Repreſentative:</hi> The other called, <hi>A Cry—With ſome Cautions touching the Election of a New Repreſentative;</hi> as if thoſe Bookes were Publiſhed by us: So that we are Charged to pro<g ref="char:EOLhyphen"/>feſſe therein, that which we had diſowned.</p>
+            <p>We are hereby Againe enforced, thus to come forth in Pub<g ref="char:EOLhyphen"/>licke in our juſt and neceſſary <hi>Vindication;</hi> leaſt if now wee ſhould be altogether ſilent, we ſhould indeed ſeeme to be deeply guilty therein. A Crime that we doe utterly deteſt and abhorre, as injurious to many: And with one Conſent wee doe thus Declare, as in the Preſence of the Almighty, who is the Searcher of all hearts, before whom the Wicked and De<g ref="char:EOLhyphen"/>ceitfull ſhall be confounded at the Day of Judgement.</p>
+            <p>Firſt, That none of us did ſo much as know of the making of any ſuch Bookes, untill they were Printed and Publiſhed.</p>
+            <p>Secondly, That as thus we were farre from appointing or approving of, or Conſenting unto the ſaid Bookes before the Publiſhing of them; So neither did we, nor doe we Conſent to,
+<pb n="3" facs="tcp:165975:2"/>or approve of ſuch <hi>
+                  <g ref="char:V">Ʋ</g>njuſt Limitations,</hi> as appeare to be implyed in the <hi>CRY</hi> pag. 9. (Though that <hi>Cryers</hi> good intent towards <hi>all that feare God,</hi> be well ſet forth therein, <hi>pag.</hi> 5, 6, 7.) But are more fully expreſſed by <hi>Quere's</hi> in the <hi>MODEL'S</hi> X<hi rend="sup">th</hi>, XI, XII, and XIII<hi rend="sup">th</hi> 
+               <hi>Quere's,</hi> Namely, <hi>That the Perſons to be Choſen, and the Perſons to be Chooſers</hi> of the New Repreſentative, <hi>ſhould be li<g ref="char:EOLhyphen"/>mitted to the Gathered-Congregationall-Churches;</hi> [Here-in that <hi>MODEL</hi> is more like a Jeſuiticall Device, to bring an <hi>Odium</hi> upon us all; then to be any Act of ours.]</p>
+            <p>Now that we may not be wanting (what in us is,) to cleare the Truth from Scripture Grounds, and to manifeſt our ſenſe thereof, <hi>Touching Civill Governors, and the Choice of them,</hi> We muſt premiſe <hi>Two Propoſitions,</hi> from the Holy Scriptures.</p>
+            <div n="1" type="proposition">
+               <head>I. The <hi>Former Propoſition</hi> is this.</head>
+               <p>
+                  <hi>That all People in Every Nation as well Members of Chur<g ref="char:EOLhyphen"/>ches, as others, ought for Conſcience ſake, to Honor ſuch, as by the wiſe Diſpoſing Providence of God, are their Preſent Ru<g ref="char:EOLhyphen"/>lers; and are to ſubmit to the Civill Commands, not onely of ſuch Rulers as are faithfull, but even to Infidels.</hi>
+               </p>
+               <p>Thus the Apoſtle <hi>Paul</hi> Commands us from the Lord, <hi>Rom.</hi> 13.1. to 8. <hi>verſ.</hi> (with 1 <hi>Cor.</hi> 14.37.) <hi>Let every ſoule be ſubject to higher Powers. For there is no Power, but of God, &amp;c.</hi> And thus the Apoſtle <hi>Peter</hi> alſo, in 1 <hi>Pet.</hi> 2.13. <hi>Submit your ſelves to every Ordi<g ref="char:EOLhyphen"/>nance of Man for the Lords ſake: Whether it be unto King as ſupream; or unto Governours.</hi> Thus they wrote, when all the Rulers Gene<g ref="char:EOLhyphen"/>rally were Infidels. And Note; The <hi>Chiefe</hi> in Rule or Govern<g ref="char:EOLhyphen"/>ment, in what Political State ſoever, are ſtiled <hi>King</hi> in the <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi> phraſe; though he were <hi>not a King,</hi> according to our <hi>Vulgar</hi> expreſſion. Thus <hi>Moſes,</hi> that <hi>Judged Iſrael,</hi> is called <hi>King in Jeſu<g ref="char:EOLhyphen"/>run,</hi> in <hi>Deut.</hi> 33.5. And when its ſaid, <hi>There was then no King in Iſrael,</hi> it intends, there was then <hi>no Judge in Iſrael;</hi> Thus <hi>Jud.</hi> 17.6. &amp; <hi>Jud.</hi> 18.1. &amp; 19.1. &amp; 21.25. And thus in <hi>Rev.</hi> 17.9, 10. <hi>The</hi> 7 <hi>Heads are</hi> 7 <hi>Mountaines;-And they are</hi> 7 <hi>Kings: Five are fallen, (-&amp;) one is, &amp; the other is yet to come.</hi>-11 <hi>And the Beaſt-is the Eighth, and is of the ſeven; and goeth into Perdition.</hi> 12 <hi>And the ten Hornes<g ref="char:EOLhyphen"/>are ten Kings.</hi> 16 <hi>They ſhall hate the Whore, and make her Deſolate.</hi> Here ſpeaking firſt of the <hi>great Citie,</hi> that reigned over the Kings of the Earth, <hi>ver.</hi> 18. that is <hi>Rome,</hi> which ſtands on <hi>ſeven hills;</hi> He ſaith, <hi>They are</hi> 7 <hi>Kings, five are fallen, &amp;c.</hi> The meaning ſeems
+<pb n="4" facs="tcp:165975:3"/>to be this; That City, which before <hi>Johns</hi> time, had had five <hi>ſorts of chiefe Rulers fallen,</hi> and had another ſort, the <hi>ſixt,</hi> then, viz. <hi>Caeſars.</hi> The <hi>ſeventh,</hi> the <hi>Pope,</hi> was <hi>to come;</hi> who alſo is the <hi>Eight,</hi> (by his Exerciſing of ſo great power; firſt Eccleſiaſtically, and then Civilly alſo;) That ſame <hi>City</hi> is the <hi>City</hi> ſpoken of in <hi>Rev.</hi> 17. Now that <hi>Rome</hi> had then had 5 ſorts of <hi>chiefe Rulers fal<g ref="char:EOLhyphen"/>len,</hi> and that <hi>Caeſars</hi> ruled in <hi>Johns</hi> time, is Evident by <hi>Hiſtorians:</hi> So that <hi>Cornelius Tacitus,</hi> a Heathen, (that lived in <hi>Johns</hi> time,) in the very beginning of his <hi>Annales,</hi> thus reckons them up; In the City <hi>Rome</hi> at firſt were <hi>Kings;</hi> then (2) Libertie &amp; (two) <hi>Conſuls.</hi> 3. (one) <hi>Dictator</hi> (added to them.) (4) <hi>Decemviri.</hi> (5) <hi>Tribuni</hi> [<hi>plebis;</hi> [that is, the Government by <hi>Ten.</hi> And then by <hi>Three.</hi>] (6) the Power fell to <hi>Caeſar.</hi> And as for the <hi>Ten Kings</hi> that ſhould <hi>hate the Whore,</hi> be it generally expounded to include <hi>England,</hi> and the <hi>Netherlands,</hi> as well as others that forſake <hi>Rome.</hi> Thus by <hi>Kings,</hi> in <hi>Rom.</hi> 13. 1 <hi>Pet.</hi> 2. <hi>Rev.</hi> 17. We are to underſtand ſuch, as are <hi>Chiefe in Rule,</hi> in any Nation.</p>
+               <p>
+                  <hi>Rulers,</hi> and <hi>Laws,</hi> are for the <hi>Nations good.</hi> This <hi>Salus Populi</hi> is the End, and to be moſt aymed at, and ſought after. When thoſe of the <hi>Netherlands,</hi> by the <hi>Spaniſh</hi> King, were Tyrannized over, the <hi>States</hi> caſt off the Tyrant, and have Governed ſince. And when King <hi>Charles</hi> left the Parliament, and prepared warre againſt it; the beſt <hi>Miniſters</hi> in <hi>London,</hi> and elſewhere ſtirred up the People to Contribute and Act to their utmoſt, to raiſe and maintaine an Army againſt his Proceeds. And by the Army, (which was empowred by the Authority of the Nation to their utmoſt to ſeek for the End beforeſaid) there hath been ſuch ſub<g ref="char:EOLhyphen"/>duing of Enemies and Obſtacles, as that by the wiſe Providence of God, we are now reduced to a <hi>Common-wealth,</hi> wherein the <hi>Rulers,</hi> are now to be Honoured. For if <hi>Caeſar,</hi> and Pagan Ru<g ref="char:EOLhyphen"/>lers under him in <hi>Judaea,</hi> and elſewhere, were to be honoured and ſubmitted unto; as both Chriſt taught, and his Apoſtles, (<hi>Matth.</hi> 22.21. <hi>Mark.</hi> 12.27.) (And yet they came in by the Sword, and kept Gods Church in Bondage;) How much more ſhould our Governours be Honoured by all people in our Na<g ref="char:EOLhyphen"/>tion?</p>
+            </div>
+            <div n="2" type="proposition">
+               <head>II. The <hi>Second Propoſition</hi> is this;</head>
+               <p>
+                  <hi>That all that profeſſe themſelves Chriſtians, or Gods peo<g ref="char:EOLhyphen"/>ple, ought to endeavour, ſo far as their place and power rea<g ref="char:EOLhyphen"/>cheth,
+<pb n="5" facs="tcp:165975:3"/>that all Rulers amongst them, ſhould be men truely fearing God.</hi>
+               </p>
+               <p>Our Ground is, the Expreſſe Charge of the Almighty. 2 <hi>Sam.</hi> 23.3. <hi>The God of Iſrael ſaid, the Rock of Iſrael ſpake unto me; HE THAT R<g ref="char:V">Ʋ</g>LETH OVER MEN, Muſt be J<g ref="char:V">Ʋ</g>ST, R<g ref="char:V">Ʋ</g>LING IN THE FEAR OF GOD.</hi>
+               </p>
+               <p>Secondly, Suitable thereto, is that in <hi>Exod.</hi> 18.21. <hi>Provide out of all the People, Men of ability</hi> (or <hi>Courage,</hi>) <hi>ſuch as FEAR GOD; Men of Truth; hating Covetouſneſſe.</hi> Theſe ſhould be pre<g ref="char:EOLhyphen"/>ferr'd, before all other Qualifications, of Birth, Riches, or Parts; as we will Anſwer it before the Great <hi>JEHOVAH.</hi>
+               </p>
+               <p>Thirdly, <hi>The feare of the Lord is the Beginning of Wiſedome, Pſal.</hi> 111.10. <hi>Prov.</hi> 1.7. Theſe will Pray, and God will give them Wiſedome, <hi>Jam.</hi> 1.5, 6. <hi>Prov.</hi> 2.1.-4.</p>
+               <p>Fourthly, Becauſe when men Feare not God, they are more obnoxious and liable to all wickedneſſe, Injury, Tyranny, Op<g ref="char:EOLhyphen"/>preſſion, <hi>Rom.</hi> 3.11. <hi>They-ſeek not after God-Their Throat is an open Sepulcher. Their feet are ſwift to ſhed bloud-Deſtruction and mi<g ref="char:EOLhyphen"/>ſery are in their wayes, and the way of Peace they have not knowne.</hi> And what's the Root of all this? <hi>There is no feare of God before their Eyes.</hi> Hence when <hi>Abimelech</hi> asked, <hi>What ſaweſt thou, that thou haſt done this thing? Abraham ſaid; Becauſe I thought, ſurely the feare of God is not in this place; therefore they will ſlay me, for my Wives ſake,</hi> Gen. 20.10, 11.</p>
+               <p>Theſe <hi>two</hi> being premiſed:</p>
+            </div>
+            <div n="3" type="proposition">
+               <head>III. Our <hi>Third Propoſition</hi> is this;</head>
+               <p>
+                  <hi>That in our dayes, wherein Perſons truely fearing God are of divers Forms, diſſenting in Church-Government, &amp;c. Some that are termed</hi> Presbyterians, <hi>ſome</hi> Independents, <hi>ſome</hi> Anabaptiſts, <hi>and ſome that are not ſo reſolved with any of theſe: the Power of</hi> Chooſing <hi>Rulers, or of being</hi> Choſen, <hi>ſhould not be limitted to any one of thoſe Formes or Perſwaſions, to the Excluding of others: [excepting ſuch,
+<note place="margin">See <hi>p.</hi> 1. <hi>lin.</hi> 3.</note> who either</hi> deny Propriety, <hi>or</hi> Magiſtracy,
+<note place="margin">See the firſt Declaration.</note> 
+                  <hi>or who aſſert carnal</hi> Liberty, <hi>or</hi> Polygamy: <hi>whom wee have witneſſed againſt in our former Declaration.</hi>] <hi>Or ſuch as have oppo<g ref="char:EOLhyphen"/>ſed, or doe not owne this preſent Government.</hi>
+               </p>
+               <pb n="6" facs="tcp:165975:4"/>
+               <p>Which <hi>Propoſition,</hi>
+               </p>
+               <p n="1">1. We <hi>Explaine</hi> thus,</p>
+               <p>Such Perſons doe <hi>Feare the Lord,</hi> that endeavour to keep a <hi>good</hi> Conſcience before God, and before men: Such as through grace <hi>Deny ungodlineſſe and worldly luſts, and live ſoberly, righteouſly, and godly in this preſent World, Tit.</hi> 2.12. Now among ſuch whoſe Fathers had all been drunk with the Babyloniſh Cup, and the dreggs and darkneſſes thence, are not quite diſpelled from us. And but by Degrees doe we attaine to further know<g ref="char:EOLhyphen"/>ledge of the Myſtery of Chriſt and of Antichriſt) there are no doubt many ſuch perſons, ſo fearing God as is beforeſaid, that have not all attained to the ſame degree: and they muſt all be fully perſwaded in their owne minds, in what they practiſe. Now if meerly for Conſcience ſake, &amp; for their ſo practiſing or not daring to practiſe, if any ſuch ſhould therefore be Excluded from being <hi>Choſen,</hi> or from being <hi>Chooſers:</hi> or if the <hi>Choſen,</hi> and the <hi>Chooſers</hi> ſhould be ſo limited that all of them ſhould be onely of one ſort and ſize, excluding all the reſt; This might be a great wrong, both to <hi>God</hi> and to <hi>Men.</hi>
+               </p>
+               <p n="2">2. We <hi>Confirme</hi> this Propoſition thus.</p>
+               <p>
+                  <hi>Firſt,</hi> This courſe is a <hi>wrong to God,</hi> when <hi>his Children,</hi> whom he loves ſo dearly, and who are ſo accepted of him, are for his ſake ſo rejected by men: As in <hi>Iſa.</hi> 66.5. <hi>Your brethren that caſt you out for my Names ſake,</hi> &amp;c. And this is a wrong to Jeſus Chriſt, who is in all his: and will ſay to ſuch as ſo reject them, at the great Day, on this wiſe, <hi>In as much as yee did it to the leaſt of theſe that beleeve in me, you did it to me, Mat.</hi> 25.45, 46.</p>
+               <p>
+                  <hi>Secondly, Repl.</hi> This Courſe were alſo a <hi>wrong to Men.</hi>
+               </p>
+               <p>Firſt, <hi>To the Perſons ſo rejected,</hi> that upon the like Ground and Principle are liable to be <hi>Perſecuted</hi> by them, and worne out, ſo as to occaſion the Exile of many out of our Nation, as it fared with many of our Brethren here under the Prelacy.</p>
+               <p>Secondly, <hi>It were a Wrong,</hi> or Damage, <hi>to the Perſons</hi> that <hi>ſo alone</hi> are fully <hi>Empowered</hi> to <hi>Chooſe,</hi> and to be <hi>Choſen:</hi> Whereby they are moſt lyable to ſuch a Temptation, as is to be Pray<g ref="char:EOLhyphen"/>ed againſt by Tender Souls, as Wiſe <hi>Agur</hi> did againſt being Enriched, <hi>Leaſt I be full and deny</hi> [or <hi>bely</hi>] <hi>thee, Prov.</hi> 30.9. The Coveting of ſuch a <hi>Monopoly,</hi> were a <hi>Coveting an evill Cove<g ref="char:EOLhyphen"/>touſneſſe to himſelfe,</hi> when it is to the wronging of others of their due, that have equall right, <hi>Habak.</hi> 2.9.</p>
+               <pb n="7" facs="tcp:165975:4"/>
+               <p>Thirdly, Thereby it may be a <hi>Wrong to that City or Nation:</hi> where,</p>
+               <p n="1">1. Many being partakers of the Sin, are like to partake alſo of the Puniſhment due thereunto; even the Sin and Puniſh<g ref="char:EOLhyphen"/>ment of <hi>Babylon</hi> and <hi>Antichriſtians, Rev.</hi> 18.4. One of their Sins being this, Perſecuting of Saints for not <hi>Conforming</hi> to them; rigorouſly preſſing to <hi>
+                     <g ref="char:V">Ʋ</g>niformity.</hi>
+               </p>
+               <p n="2">2. Hereby many others are the More hardened againſt all Profeſſors and Profeſſion, when they ſee Profeſſors ſo oppoſing Each other.</p>
+               <p>
+                  <hi>Thirdly,</hi> How little cauſe there is for any of theſe to ſeek the Excluding of the other, may further appeare by theſe Conſi<g ref="char:EOLhyphen"/>derations.</p>
+               <p n="1">1. All thoſe that feare the Lord amongſt us, are all the Children of one God and Father.</p>
+               <p n="2">2. They are the Redeemed of one Lord and Saviour Jeſus Chriſt, who hath loved them, and given himſelfe for them.</p>
+               <p n="3">3. They have the Holy Spirit their Sanctifyer and Com<g ref="char:EOLhyphen"/>forter.</p>
+               <p n="4">4. They have One Faith, and hope of their Calling, <hi>Epheſ.</hi> 4.4, 5.</p>
+               <p n="5">5. They have all of them one and the ſame Inheritance, which is immortall, undefiled, uncorruptible, which fadeth not away, which is reſerved in Heaven for them, who are kept by the power of God through faith unto Salvation, 1 <hi>Pet.</hi> 1.3, 4.</p>
+               <p n="6">6. They have the ſame Common Enemies to them all; the Fleſh, the Devill, and the World: and in the World not onely <hi>Pagans, Turks,</hi> and <hi>Papiſts</hi> abroad, but generally all perſons that are in their <hi>Naturall, Carnall,</hi> and <hi>Corrupt</hi> eſtate at home.</p>
+               <p n="7">7. All theſe have alſo the very ſame Weapons and Argu<g ref="char:EOLhyphen"/>ments, wherein they all generally with one minde agree toge<g ref="char:EOLhyphen"/>ther againſt all thoſe their Common Enemies, &amp;c. Theſe have <hi>More with them then are againſt them,</hi> 2 <hi>Kings</hi> 6.</p>
+               <p n="8">8. The Time is comming, and we hope is neer at hand, when all that feare the Lord ſhall be of one minde and of one heart, and ſhall worſhip him with one conſent. <hi>Zeph.</hi> 3.9. Then they ſhall have ſuch externall Viſible Union and Communion that ſhall <hi>Convince the World</hi> (that are not convinced by inter<g ref="char:EOLhyphen"/>nalls) <hi>that the Father hath loved them all, as he hath loved his Son;</hi> as our Lord Jeſus prayed: and therefore it ſhall certainely be
+<pb n="8" facs="tcp:165975:5"/>effected, becauſe the Father alwayes heard him, <hi>John</hi> 17.21, 23. <hi>John</hi> 11.41. Therefore ſhould all theſe be far from excluding each other, eyther from being Chooſers or from being Choſen unto places of Power or Authority.</p>
+               <p>Thus have We with one Conſent <hi>Declared</hi> our ſelves touch<g ref="char:EOLhyphen"/>ing the Books aforeſaid, being ſuch as we never conſented un<g ref="char:EOLhyphen"/>to, nor owned: and alſo our Grounds and Reaſons why Wee are far from approving of them. And the ſincerity of our Hearts in what We have Declared herein, We take the Almigh<g ref="char:EOLhyphen"/>ty God to Record upon our Souls.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>The IX. Month called</hi> 
+                  <date>Novemb. <hi>the Tenth Day.</hi> 1651.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Greenhill.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Shute.</hi>
+                     </item>
+                     <item>
+                        <hi>John Simpſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hutton.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Turpin.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Brooks.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Feake.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Woollaſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Sherman.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Jeſſey.</hi>
+                     </item>
+                     <item>
+                        <hi>Emanuel Middelton.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Naſh.</hi>
+                     </item>
+                     <item>
+                        <hi>John Foche.</hi>
+                     </item>
+                     <item>
+                        <hi>Hanſerd Knolly's.</hi>
+                     </item>
+                     <item>
+                        <hi>William Kiffin.</hi>
+                     </item>
+                     <item>
+                        <hi>William Conſett.</hi>
+                     </item>
+                     <item>
+                        <hi>T: Harriſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Whalley.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>M. Simmons</hi> for <hi>L. Chapman,</hi> at the Crown in <hi>Popes-head</hi> Alley. 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
